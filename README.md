@@ -1,4 +1,4 @@
-# Sample Site
+# Next.js example
 
 ## How to use
 
@@ -9,6 +9,6 @@ npm install
 npm run dev
 ```
 
-## Live link
+## Live Url
 
-https://demo-nextjs.netlify.app/
+https://nextjs-sample-qzi9ph0p3.vercel.app
